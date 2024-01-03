@@ -1,3 +1,4 @@
+--
 permalink: /about/
 
 defaults:
@@ -8,3 +9,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+--
