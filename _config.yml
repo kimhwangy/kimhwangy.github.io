@@ -22,7 +22,7 @@ subtitle                 : "Humdrums of a Spaceman" # site tagline that appears 
 name                     : "Kim Hwang"
 description              : ""
 url                      : "https://kimhwang.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "kimhwangy.github.io" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "https://th.bing.com/th/id/OIP.4PjXnqvFwHtImZ2Tq73jigHaEK?rs=1&pid=ImgDetMain" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://i.pinimg.com/originals/42/ad/0e/42ad0ebff37f0625e34df640dc4ae25d.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
